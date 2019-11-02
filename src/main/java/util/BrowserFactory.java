@@ -9,7 +9,7 @@ public class BrowserFactory {
 
 		public static WebDriver startBrowser() {
 			// Set Chrome Driver Properties
-			System.setProperty("webdriver.chrome.driver", "C:\\Users\\new\\eclipse-workspaceGeico\\BDDParamatization\\src\\driver\\chromedriver.exe");
+			System.setProperty("webdriver.chrome.driver", "C:\\Users\\alidf\\git\\Bdd_Paramitazation\\driver\\chromedriver.exe");
 			// Create ChromeDriver object and launch chrome browser
 			WebDriver driver = new ChromeDriver();		
 			

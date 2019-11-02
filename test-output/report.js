@@ -1,4 +1,4 @@
-$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("C:/Users/new/eclipse-workspaceGeico/BDDParamatization/src/test/java/features/login.feature");
+$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("C:/Users/alidf/git/Bdd_Paramitazation/src/test/java/features/login.feature");
 formatter.feature({
   "line": 1,
   "name": "Valid user login",
