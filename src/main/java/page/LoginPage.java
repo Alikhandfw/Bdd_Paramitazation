@@ -18,12 +18,7 @@ WebDriver driver;
 	  public LoginPage(WebDriver driver) { this.driver = driver; }
 	 
 
-	// Element Library
-
-	/*
-	 * @FindBy(how = How.LINK_TEXT, using = "Online Banking") WebElement
-	 * ClickOnlineBanking;
-	 */
+	
 
 	@FindBy(how = How.NAME, using = "SubmitButtonComponent-1")
 	WebElement Submitt;
