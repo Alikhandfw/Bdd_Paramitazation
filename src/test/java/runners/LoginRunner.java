@@ -7,7 +7,7 @@ import cucumber.api.CucumberOptions;
 import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features = "C:\\Users\\new\\eclipse-workspaceGeico\\BDDParamatization\\src\\test\\java\\features\\login.feature"
+@CucumberOptions(features = "C:\\Users\\alidf\\git\\Bdd_Paramitazation\\src\\test\\java\\features\\login.feature"
 , glue = { "steps" },
  dryRun = true,
  monochrome = true,
